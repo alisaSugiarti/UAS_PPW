@@ -21,7 +21,7 @@ Jinja2==3.1.2
 joblib==1.2.0
 jsonschema==4.17.0
 kiwisolver==1.4.4
-Keras>=2.7.0,<=2.8  # Note: Keras is now part of TensorFlow as tf.keras
+Keras==2.15.0  # Note: Keras is now part of TensorFlow as tf.keras
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 more-itertools==9.0.0
@@ -75,4 +75,4 @@ yellowbrick>=1.5
 openpyxl==3.1.2
 networkx>=2.6.3
 Sastrawi
-tensorflow==2.7.0  # Include TensorFlow, which now includes Keras as tf.keras
+tensorflow==2.15.0  # Include TensorFlow, which now includes Keras as tf.keras
