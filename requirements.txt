@@ -21,6 +21,7 @@ Jinja2==3.1.2
 joblib==1.2.0
 jsonschema==4.17.0
 kiwisolver==1.4.4
+Keras>=2.7.0,<=2.8
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 more-itertools==9.0.0
@@ -73,6 +74,4 @@ yellowbrick>=1.5
 openpyxl==3.1.2
 networkx>=2.6.3
 Sastrawi
-keras>=2.7.0,<=2.8
 tensorflow==2.7.0
-
