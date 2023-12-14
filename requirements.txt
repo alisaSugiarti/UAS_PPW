@@ -73,3 +73,4 @@ yellowbrick>=1.5
 openpyxl==3.1.2
 networkx>=2.6.3
 Sastrawi
+tensorflow==2.7.0
